@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="169315" started-at="2018-03-08T18:59:43Z" finished-at="2018-03-08T19:02:33Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="169315" started-at="2018-03-08T18:59:43Z" finished-at="2018-03-08T19:02:33Z">
+      <class name="Tests">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Tests@37374a5e]" name="setUp" is-config="true" duration-ms="76705" started-at="2018-03-08T18:59:43Z" finished-at="2018-03-08T19:01:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="favoriteLocation()[pri:0, instance:Tests@37374a5e]" name="favoriteLocation" duration-ms="21184" started-at="2018-03-08T19:01:00Z" finished-at="2018-03-08T19:01:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- favoriteLocation -->
+        <test-method status="PASS" signature="searchLocation()[pri:0, instance:Tests@37374a5e]" name="searchLocation" duration-ms="22372" started-at="2018-03-08T19:01:21Z" finished-at="2018-03-08T19:01:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchLocation -->
+        <test-method status="PASS" signature="selectUursAndDaagseWidgets()[pri:0, instance:Tests@37374a5e]" name="selectUursAndDaagseWidgets" duration-ms="29593" started-at="2018-03-08T19:01:44Z" finished-at="2018-03-08T19:02:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectUursAndDaagseWidgets -->
+        <test-method status="PASS" signature="showForecastForFortyEightHours()[pri:0, instance:Tests@37374a5e]" name="showForecastForFortyEightHours" duration-ms="3360" started-at="2018-03-08T19:02:13Z" finished-at="2018-03-08T19:02:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- showForecastForFortyEightHours -->
+        <test-method status="PASS" signature="uncheckWidgets()[pri:0, instance:Tests@37374a5e]" name="uncheckWidgets" duration-ms="12752" started-at="2018-03-08T19:02:17Z" finished-at="2018-03-08T19:02:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- uncheckWidgets -->
+        <test-method status="PASS" signature="signOut()[pri:0, instance:Tests@37374a5e]" name="signOut" is-config="true" duration-ms="3213" started-at="2018-03-08T19:02:29Z" finished-at="2018-03-08T19:02:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signOut -->
+      </class> <!-- Tests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
